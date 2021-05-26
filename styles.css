@@ -1,0 +1,16 @@
+body {
+    background-color: indigo;
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: lightskyblue;
+}
+
+.friend {
+    background-color: rgb(51, 236, 34)
+}
+
+.friend > h3 {
+    text-transform: uppercase;
+}
